@@ -1,0 +1,26 @@
+body{
+  background-color: #EAEAE8;
+}
+
+header{
+  background-color: #FCCE09;
+  padding: 20px;
+}
+
+nav{
+  text-align:right;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  margin-right: 50px;
+}
+
+#boton{
+  text-align: left;
+}
+
+#entrada{
+  text-align: center;
+}
