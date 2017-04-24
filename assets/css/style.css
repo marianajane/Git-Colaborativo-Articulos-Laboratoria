@@ -1,4 +1,56 @@
 
+/*Edith*/
+.izquierdaE{
+  width:450px;
+  margin:0px 40px 0px 0px;
+  background-color: white;
+  float:left;
+}
+.interiorE{
+  width:300px;
+  height: 300px;
+  margin:30px auto 0px auto;
+  background-color: #ccc;
+  position:relative;
+  text-align: center;
+}
+.h1E{
+  padding: 0px 20px;
+  color:#838383;
+}
+.pE{
+  padding: 0px 20px;
+  color:#838383;
+  text-align: justify;
+}
+.buttonE{
+  width:120px;
+  height: 50px;
+  background-color: #fcce09;
+  color:white;
+  font-size: 1.1em;
+  margin-left:150px;
+  margin-bottom: 20px;
+}
+.derechaE{
+  width:450px;
+  margin:0px 0px;
+  background-color: white;
+  float:left;
+}
+.sectionE{
+  width:950px;
+  margin: 0px auto 40px auto;
+  height: auto;
+}
+.interiorEp{
+  font-size: 2.3em;
+  margin-top: 110px;
+  margin-left: 80px;
+  position:absolute;
+  color:#888;
+}
+
 .contenedorA {
     border: 1px solid black;
     display: inline-block;
