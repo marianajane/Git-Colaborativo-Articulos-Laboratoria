@@ -1,16 +1,66 @@
+#lucero {
+  margin-left: 10%;
+}
+
+.contenedorL {
+  display: inline-block;
+  position: relative;
+  width: 450px;
+  height: 520px;
+  background: white;
+  margin: 20px;
+}
 
 #kary{
   font-family: serif;
   margin-left: 10%;
 }
+
 .cuadroBlancoK{
-  background: white;
-  margin: 20px;
   display: inline-block;
   position: relative;
   width: 450px;
   height: 520px;
+  background: white;
+  margin: 20px;
 }
+
+.cuadroL {
+  position: absolute;
+  background:#BDBDBD;
+  width: 300px;
+ height: 300px;
+ margin: 25px 80px;
+ border: 2px;
+ border-style: double;
+ border-color: #424242;
+}
+
+.botonL{
+  position: absolute;
+   left: 170px;
+   bottom: 10px;
+   padding: 10px;
+   background: #F4A60B;
+   color: white;
+   width: 100px;
+   border: 0px;;
+}
+
+.botonL:hover{
+   background: #DF0174;
+ }
+
+.textoL {
+  position: absolute;
+  display: inline-block;
+  width: 380px;
+  text-align: justify;
+  bottom: 30px;
+  left: 35px;
+  color: #878585;
+}
+
 .cuadroImgK{
   position: absolute;
   width: 300px;
@@ -47,6 +97,14 @@
   left: 35px;
   color: #878585;
 }
+
+.subtituloL {
+  position: absolute;
+  bottom: 140px;
+  left: 25px;
+  color: #878585;
+}
+
 .ejemploK{
   position: absolute;
   bottom: 140px;
@@ -54,9 +112,20 @@
   color: #878585;
 }
 
+.textoCentroL{
+   position: absolute;
+   top: 100px;
+   left: 80px;
+   right: 80px;
+   text-align: center;
+   font-size: 30px;
+   color: #878585;
+ }
+
 #mariana {
 	text-align: center;
 }
+
 .contenedorM {
 	width: 450px;
 	height: 500px;
@@ -110,6 +179,7 @@
   background-color: white;
   float:left;
 }
+
 .interiorE{
   width:300px;
   height: 300px;
@@ -118,15 +188,18 @@
   position:relative;
   text-align: center;
 }
+
 .h1E{
   padding: 0px 20px;
   color:#838383;
 }
+
 .pE{
   padding: 0px 20px;
   color:#838383;
   text-align: justify;
 }
+
 .buttonE{
   width:120px;
   height: 50px;
@@ -136,17 +209,20 @@
   margin-left:150px;
   margin-bottom: 20px;
 }
+
 .derechaE{
   width:450px;
   margin:0px 0px;
   background-color: white;
   float:left;
 }
+
 .sectionE{
   width:950px;
   margin: 0px auto 40px auto;
   height: auto;
 }
+
 .interiorEp{
   font-size: 2.3em;
   margin-top: 110px;
