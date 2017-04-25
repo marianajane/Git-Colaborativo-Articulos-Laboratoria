@@ -26,13 +26,13 @@ a{
   text-align: center;
 }
 
-#titulo{
+#tituloPrincipal{
   color: whitesmoke;
   font-size: 30px;
   display: block;
 }
 
-span{
+.titulo{
   color: white;
 }
 
