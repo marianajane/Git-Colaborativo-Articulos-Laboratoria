@@ -22,5 +22,36 @@ a{
 }
 
 #entrada{
+  padding: 200px;
+  text-align: center;
+}
+
+#tituloPrincipal{
+  color: whitesmoke;
+  font-size: 30px;
+  display: block;
+}
+
+.titulo{
+  color: white;
+}
+
+#boton{
+  background: #FEB944;
+  color: #fff;
+  padding: 11px 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+  display: inline-block;
+  font-size: 14px;
+  position: absolute;
+  left: 80px;
+  top: 40px;
+  border: 0px;
+}
+footer{
+  background-color: #303639;
+  color: whitesmoke;
+  padding: 20px;
   text-align: center;
 }
