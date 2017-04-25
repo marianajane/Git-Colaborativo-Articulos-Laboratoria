@@ -244,6 +244,7 @@ a:hover {
   color: grey;
 }
 
+
 #pitt{
   display: block;
 }
@@ -286,3 +287,47 @@ a:hover {
    margin-left: 180px;
    padding: 5px;
  }
+=======
+#silvana{
+  height: 100%;
+  margin: 0px auto;
+}
+
+.contenedoresEjemploS{
+  background: white;
+  display: inline-block;
+  position: relative;
+  width: 450px;
+  height: 550px;
+  margin-left:40px;
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+
+#div1{
+  margin-left:18%;
+}
+
+.tituloS{
+  margin-left: 3%;
+}
+
+.imagenSil{
+  background: #cccccc;
+  background-image: url(../img/img_gatitos_body.png);
+  width:300px;
+  height: 300px;
+  margin: 20px auto;
+}
+
+.botonesLeerMas{
+  background-color: #feb944;
+  color: white;
+  margin-left: 35%;
+  width: 150px;
+  height: 50px
+}
+.parrafoS{
+  padding: 0% 5% 0% 5%;
+  text-align: justify;
+}
