@@ -1,0 +1,89 @@
+
+.contenedorA {
+    border: 1px solid black;
+    display: inline-block;
+    margin: 20px;
+    width: 450px;
+    height: 480px;
+    background-color: white;
+    text-align: justify;
+    padding: 10px;
+    position: relative;
+    left: 180px;
+}
+
+.imagenesA {
+    background-color: #cccccc;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    position: relative;
+    left: 50px;
+}
+
+.medidaImagenA {
+    font-size: 30px;
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
+
+.botonA {
+    position: absolute;
+    bottom: 0;
+    left: 200px;
+    background-color: #fcce09;
+}
+
+#box-mimi{
+  display: inline-block;
+  position: relative;
+  width: 450px;
+  height: 520px;
+  background-color: white;
+  margin-left: 120px;
+  margin-top: 30px;
+  color: grey;
+}
+
+#ejemplo1N{
+  width: 300px;
+  height: 300px;
+  margin-left: 75px;
+  margin-top: 20px;
+}
+
+#ejemplo2N{
+  width: 294px;
+  height: 294px;
+  margin-left: 75px;
+  margin-top: 20px;
+  border: 3px solid #7CBADF;
+}
+
+h1{
+  margin-left: 20px;
+}
+.resumenN{
+  margin-left: 20px;
+  color: grey;
+}
+
+.btn-home{
+  background: #FEB944;
+  color: #fff;
+  padding: 11px 20px;
+  border-radius: 1px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-top: 63px;
+  display: inline-block;
+  font-size: 14px;
+  position: absolute;
+  left: 180px;
+  top: 400px;
+}
+
+a:hover {
+  color: grey;
+}
